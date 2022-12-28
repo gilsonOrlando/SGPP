@@ -1,0 +1,2796 @@
+[15-Aug-2022 00:16:04 Europe/Berlin] Conexión a BD exitosa
+[15-Aug-2022 00:16:04 Europe/Berlin] Conexión a BD exitosa
+[15-Aug-2022 00:16:04 Europe/Berlin] Conexión a BD exitosa
+[15-Aug-2022 00:16:04 Europe/Berlin] Conexión a BD exitosa
+[15-Aug-2022 00:16:04 Europe/Berlin] Conexión a BD exitosa
+[15-Aug-2022 00:16:04 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:26 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:26 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:04:26 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:26 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[22-Nov-2022 22:04:26 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:04:26 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:04:26 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:26 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:04:31 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:31 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:04:31 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:31 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[22-Nov-2022 22:04:31 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:04:31 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:04:31 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:31 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:04:34 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[22-Nov-2022 22:04:34 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:04:34 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:34 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[22-Nov-2022 22:04:34 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:34 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:04:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[22-Nov-2022 22:04:34 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:04:34 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:04:34 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:34 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:04:42 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:42 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:42 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[22-Nov-2022 22:04:42 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] LoginModel::login -> success 
+[22-Nov-2022 22:04:42 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[22-Nov-2022 22:04:42 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:42 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:42 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:04:42 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:42 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:04:42 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:42 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:43 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:43 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:43 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:04:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:43 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:43 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:04:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:04:43 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:43 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:43 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:43 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:43 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:43 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:43 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:43 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:50 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:50 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:50 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:50 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> logout
+[22-Nov-2022 22:04:50 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> logout
+[22-Nov-2022 22:04:50 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/
+[22-Nov-2022 22:04:50 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:50 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:04:50 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:50 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[22-Nov-2022 22:04:50 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:04:50 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:04:50 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:50 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:04:52 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[22-Nov-2022 22:04:52 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:04:52 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] LoginModel::login -> success 
+[22-Nov-2022 22:04:53 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[22-Nov-2022 22:04:53 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:53 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:04:53 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:53 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:04:53 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:04:53 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:05:40 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:05:40 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:05:40 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:05:40 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:05:40 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:40 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:41 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:05:41 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:05:41 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:05:41 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:05:41 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:41 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:05:41 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:05:41 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:05:41 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:41 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:05:41 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:41 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:41 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:41 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:41 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:41 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:05:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:05:49 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:05:49 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:05:49 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:05:49 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:49 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:50 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:05:50 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:05:50 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:05:50 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:05:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:50 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:05:50 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:05:50 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:05:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:50 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:05:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:05:50 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:00 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:01 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:01 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:01 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:01 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:01 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:01 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:01 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:01 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:01 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:01 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:01 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:06:03 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:03 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:03 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:03 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:03 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[22-Nov-2022 22:06:03 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[22-Nov-2022 22:06:03 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:03 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:03 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:03 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:06:07 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:07 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:06:12 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[22-Nov-2022 22:06:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:12 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/user?success=2ee085ac8828407f4908e4d134195e5c
+[22-Nov-2022 22:06:12 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user?success=2ee085ac8828407f4908e4d134195e5c
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user?success=2ee085ac8828407f4908e4d134195e5c
+[22-Nov-2022 22:06:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:12 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:12 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:06:16 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:16 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:16 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:16 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:16 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:16 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:16 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:16 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:16 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:16 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:06:16 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:18 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:18 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:06:18 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:18 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:06:18 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:18 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:19 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:06:19 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:06:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:06:19 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:07:07 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:07:07 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:07:08 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:07:08 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:55:34 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:55:34 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:55:34 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:55:34 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:55:44 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:55:44 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:55:44 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:55:44 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:55:52 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:55:52 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:55:52 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:55:52 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:57:53 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:57:53 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:57:54 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:57:54 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:58:02 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:58:02 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:58:21 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:21 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:58:21 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[22-Nov-2022 22:58:21 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[22-Nov-2022 22:58:21 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[22-Nov-2022 22:58:21 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:58:21 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:58:21 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:21 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:21 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:58:21 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:21 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:58:21 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:22 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:22 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:22 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:58:22 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:58:22 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:22 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:22 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:58:22 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:58:22 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:22 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:22 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:22 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:22 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:22 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:22 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:22 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:27 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:58:27 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:27 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[22-Nov-2022 22:58:27 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[22-Nov-2022 22:58:27 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[22-Nov-2022 22:58:27 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:58:27 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:58:27 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:27 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:27 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:58:27 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:27 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:58:27 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:27 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:28 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:28 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:58:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:58:28 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:28 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:58:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:58:28 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:28 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:58:28 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:28 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:28 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:28 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:28 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:28 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:58:36 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:36 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:58:36 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:58:36 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[22-Nov-2022 22:58:36 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[22-Nov-2022 22:58:36 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[22-Nov-2022 22:58:36 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:58:36 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:58:36 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:58:36 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:59:12 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:59:12 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:59:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:12 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[22-Nov-2022 22:59:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[22-Nov-2022 22:59:12 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[22-Nov-2022 22:59:12 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:59:12 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:59:12 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:59:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:59:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:12 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:59:12 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:12 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:13 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:59:13 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:59:13 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:59:13 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:59:13 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:13 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:13 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:59:13 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:59:13 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:13 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:13 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:13 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:13 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:13 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:13 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:13 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:59:20 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[22-Nov-2022 22:59:20 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:20 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[22-Nov-2022 22:59:20 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[22-Nov-2022 22:59:20 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[22-Nov-2022 22:59:20 Europe/Berlin] Login::construct -> Inicio de login
+[22-Nov-2022 22:59:20 Europe/Berlin] Login::render -> Carga el index de login
+[22-Nov-2022 22:59:20 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:59:20 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:20 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:59:20 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:20 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[22-Nov-2022 22:59:20 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:20 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:59:21 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 22:59:21 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 22:59:21 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:21 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:59:21 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 22:59:21 Europe/Berlin] Conexión a BD exitosa
+[22-Nov-2022 23:00:41 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:00:41 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:00:58 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:00:58 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:01:14 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:01:14 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:01:14 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:01:14 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:01:18 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:01:18 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:01:22 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:01:22 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:01:29 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:01:29 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:01:29 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:01:29 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:01:44 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:01:44 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:01:51 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:01:51 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:02:11 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:02:11 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:02:30 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:02:30 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:02:38 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:02:38 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:02:48 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:02:48 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:02:48 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:02:48 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:03:07 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:03:07 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:03:13 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:03:13 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:03:28 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:03:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[22-Nov-2022 23:03:28 Europe/Berlin] Inicio de aplicacion web
+[22-Nov-2022 23:03:28 Europe/Berlin] Errores::construct -> Inicio de Errores
+[23-Nov-2022 16:03:44 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:03:44 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[23-Nov-2022 16:03:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[23-Nov-2022 16:03:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[23-Nov-2022 16:03:44 Europe/Berlin] Login::construct -> Inicio de login
+[23-Nov-2022 16:03:44 Europe/Berlin] Login::render -> Carga el index de login
+[23-Nov-2022 16:03:44 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:03:44 Europe/Berlin] Errores::construct -> Inicio de Errores
+[23-Nov-2022 16:03:47 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:03:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[23-Nov-2022 16:03:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[23-Nov-2022 16:03:47 Europe/Berlin] Login::construct -> Inicio de login
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] LoginModel::login -> success 
+[23-Nov-2022 16:03:47 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[23-Nov-2022 16:03:47 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:03:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[23-Nov-2022 16:03:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[23-Nov-2022 16:03:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[23-Nov-2022 16:03:47 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[23-Nov-2022 16:03:47 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:47 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:48 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:03:48 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:03:48 Europe/Berlin] Errores::construct -> Inicio de Errores
+[23-Nov-2022 16:03:48 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[23-Nov-2022 16:03:48 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:48 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[23-Nov-2022 16:03:48 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[23-Nov-2022 16:03:48 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[23-Nov-2022 16:03:48 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:48 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[23-Nov-2022 16:03:48 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:48 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:48 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:48 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:48 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:03:48 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:04:06 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:04:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[23-Nov-2022 16:04:06 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:04:06 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[23-Nov-2022 16:04:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[23-Nov-2022 16:04:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[23-Nov-2022 16:04:06 Europe/Berlin] Conexión a BD exitosa
+[23-Nov-2022 16:04:06 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[23-Nov-2022 16:04:06 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:04:06 Europe/Berlin] Errores::construct -> Inicio de Errores
+[23-Nov-2022 16:04:38 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:04:38 Europe/Berlin] Errores::construct -> Inicio de Errores
+[23-Nov-2022 16:10:02 Europe/Berlin] Inicio de aplicacion web
+[23-Nov-2022 16:10:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[01-Dec-2022 16:04:48 Europe/Berlin] Inicio de aplicacion web
+[01-Dec-2022 16:04:48 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[01-Dec-2022 16:04:48 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[01-Dec-2022 16:04:48 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[01-Dec-2022 16:04:48 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[01-Dec-2022 16:04:48 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[01-Dec-2022 16:04:48 Europe/Berlin] Login::construct -> Inicio de login
+[01-Dec-2022 16:04:48 Europe/Berlin] Login::render -> Carga el index de login
+[01-Dec-2022 16:09:47 Europe/Berlin] Inicio de aplicacion web
+[01-Dec-2022 16:09:47 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[01-Dec-2022 16:09:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[01-Dec-2022 16:09:47 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[01-Dec-2022 16:09:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[01-Dec-2022 16:09:47 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[01-Dec-2022 16:09:47 Europe/Berlin] Login::construct -> Inicio de login
+[01-Dec-2022 16:09:47 Europe/Berlin] Login::render -> Carga el index de login
+[05-Dec-2022 13:53:01 Europe/Berlin] Inicio de aplicacion web
+[05-Dec-2022 13:53:01 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[05-Dec-2022 13:53:01 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[05-Dec-2022 13:53:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[05-Dec-2022 13:53:01 Europe/Berlin] Login::construct -> Inicio de login
+[05-Dec-2022 13:53:01 Europe/Berlin] Login::render -> Carga el index de login
+[05-Dec-2022 13:53:02 Europe/Berlin] Inicio de aplicacion web
+[05-Dec-2022 13:53:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[05-Dec-2022 13:53:06 Europe/Berlin] Inicio de aplicacion web
+[05-Dec-2022 13:53:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[05-Dec-2022 13:53:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[05-Dec-2022 13:53:06 Europe/Berlin] Login::construct -> Inicio de login
+[05-Dec-2022 13:53:06 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:06 Europe/Berlin] LoginModel::login -> success 
+[05-Dec-2022 13:53:06 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[05-Dec-2022 13:53:06 Europe/Berlin] Inicio de aplicacion web
+[05-Dec-2022 13:53:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[05-Dec-2022 13:53:06 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:06 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[05-Dec-2022 13:53:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[05-Dec-2022 13:53:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[05-Dec-2022 13:53:06 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:06 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[05-Dec-2022 13:53:06 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[05-Dec-2022 13:53:06 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[05-Dec-2022 13:53:06 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:06 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:07 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:08 Europe/Berlin] Inicio de aplicacion web
+[05-Dec-2022 13:53:08 Europe/Berlin] Inicio de aplicacion web
+[05-Dec-2022 13:53:08 Europe/Berlin] Errores::construct -> Inicio de Errores
+[05-Dec-2022 13:53:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[05-Dec-2022 13:53:08 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:08 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[05-Dec-2022 13:53:08 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[05-Dec-2022 13:53:08 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[05-Dec-2022 13:53:08 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:08 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[05-Dec-2022 13:53:08 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:08 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:08 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:08 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:08 Europe/Berlin] Conexión a BD exitosa
+[05-Dec-2022 13:53:08 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:19:51 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:19:51 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:19:51 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:19:51 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[12-Dec-2022 14:19:51 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:19:51 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:19:51 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:19:51 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:19:53 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:19:53 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:19:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:19:53 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:19:53 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:19:53 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:19:53 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:19:53 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:19:53 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:19:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:19:53 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:19:53 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:19:53 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:19:53 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:20:00 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:00 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:20:00 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:00 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:20:00 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:00 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:00 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:20:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:00 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:00 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:00 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:20:00 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:00 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:20:01 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:01 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:20:01 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:01 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:20:01 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:01 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:01 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:20:01 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:01 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:01 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:01 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:20:01 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:01 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:20:02 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:20:02 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:02 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:20:02 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:02 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:02 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:20:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:02 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:02 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:20:02 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:20:02 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:20:02 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:02 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:20:02 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:02 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:02 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:20:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:02 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:02 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:20:02 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:20:19 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:20:19 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:19 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:20:19 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:19 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:19 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:20:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:19 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:19 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:20:19 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:19 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:20:25 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:25 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:25 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:20:25 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:25 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:20:25 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:25 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:25 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:20:25 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:25 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:25 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:25 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:20:25 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:25 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:20:30 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:20:30 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:30 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:20:30 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:30 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:30 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:20:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:20:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:20:30 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:20:30 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:20:30 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:20:30 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:22:06 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:22:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:22:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:22:06 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:22:06 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:22:06 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:22:06 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:22:06 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:22:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:22:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:22:06 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:22:06 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:22:06 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:22:06 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:23:28 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:23:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:23:28 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:23:28 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:28 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:23:28 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:28 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:23:28 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:23:28 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:23:28 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:23:28 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:23:29 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:29 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:23:30 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:23:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:23:30 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:23:30 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:30 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:23:30 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:30 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[12-Dec-2022 14:23:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:23:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[12-Dec-2022 14:23:30 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:23:30 Europe/Berlin] Login::render -> Carga el index de login
+[12-Dec-2022 14:23:30 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:30 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:23:34 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:23:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[12-Dec-2022 14:23:34 Europe/Berlin] Login::construct -> Inicio de login
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] LoginModel::login -> success 
+[12-Dec-2022 14:23:34 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[12-Dec-2022 14:23:34 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[12-Dec-2022 14:23:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[12-Dec-2022 14:23:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[12-Dec-2022 14:23:34 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[12-Dec-2022 14:23:34 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:34 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:35 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:35 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:23:35 Europe/Berlin] Errores::construct -> Inicio de Errores
+[12-Dec-2022 14:23:35 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:23:35 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:35 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[12-Dec-2022 14:23:35 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[12-Dec-2022 14:23:35 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[12-Dec-2022 14:23:35 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:35 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[12-Dec-2022 14:23:35 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:35 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:35 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:35 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:35 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:23:35 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:24:06 Europe/Berlin] Inicio de aplicacion web
+[12-Dec-2022 14:24:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[12-Dec-2022 14:24:06 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:24:06 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[12-Dec-2022 14:24:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[12-Dec-2022 14:24:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[12-Dec-2022 14:24:06 Europe/Berlin] Conexión a BD exitosa
+[12-Dec-2022 14:24:06 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilson
+[12-Dec-2022 14:24:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:00 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:00 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 08:28:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:00 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 08:28:00 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:28:00 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 08:28:00 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:00 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:28:39 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:39 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:39 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 08:28:39 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:28:39 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:39 Europe/Berlin] LoginModel::login -> success 
+[13-Dec-2022 08:28:39 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/admin
+[13-Dec-2022 08:28:39 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:39 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:39 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:39 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonAdmin
+[13-Dec-2022 08:28:39 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> admin
+[13-Dec-2022 08:28:39 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> admin
+[13-Dec-2022 08:28:39 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:39 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:39 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:39 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:39 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:40 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:40 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:28:43 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:43 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonAdmin
+[13-Dec-2022 08:28:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> logout
+[13-Dec-2022 08:28:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> logout
+[13-Dec-2022 08:28:43 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/
+[13-Dec-2022 08:28:43 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:43 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 08:28:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 08:28:43 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:28:43 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 08:28:43 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:43 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:28:46 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:46 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:46 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 08:28:46 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:28:46 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] LoginModel::login -> success 
+[13-Dec-2022 08:28:47 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[13-Dec-2022 08:28:47 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:28:47 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:28:47 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:47 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:28:47 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:47 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:47 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:51 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:51 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:28:51 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:51 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:28:51 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[13-Dec-2022 08:28:51 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[13-Dec-2022 08:28:51 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:28:51 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:28:51 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:51 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:28:51 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:28:51 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:29:04 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:29:04 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[13-Dec-2022 08:29:04 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:29:04 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:04 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/user?success=edabc9e4581fee3f0056fff4685ee9a8
+[13-Dec-2022 08:29:04 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:29:04 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user?success=edabc9e4581fee3f0056fff4685ee9a8
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user?success=edabc9e4581fee3f0056fff4685ee9a8
+[13-Dec-2022 08:29:04 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:04 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:29:04 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:29:04 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:29:06 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:29:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:29:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:29:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:29:06 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:29:06 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:06 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:07 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:29:07 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:29:07 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:29:07 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:29:07 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:07 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:29:07 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:29:07 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:29:07 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:07 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:29:07 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:07 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:07 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:07 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:07 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:29:07 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:41:29 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 08:41:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 08:41:29 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:41:29 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 08:41:29 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:41:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:41:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:29 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:41:29 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:29 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:30 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:41:30 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:41:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:41:30 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:41:30 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:30 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:41:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:41:30 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:30 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:30 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:30 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:30 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:30 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:30 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:30 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:32 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:41:32 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:41:32 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:41:32 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:41:32 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:16 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:42:16 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:16 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:42:16 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:17 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:42:17 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:17 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:17 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:17 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:43 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:42:43 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:43 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:42:43 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:42:43 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:43 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:42:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:42:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:11 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:11 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:45:12 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:45:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:45:12 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:12 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:45:12 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:45:12 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:12 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:12 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:13 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:13 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:13 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:45:13 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:45:13 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:13 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:15 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:15 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:45:15 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:15 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:15 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:45:15 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:45:15 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:15 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:15 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:45:15 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:45:15 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:15 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:15 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:15 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:15 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:16 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:16 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:45:16 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:45:16 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:16 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:47 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:45:47 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:47 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:45:47 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:47 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:48 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:48 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:48 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:45:48 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:45:48 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:48 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:48 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:45:48 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:45:48 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:48 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:48 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:48 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:48 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:48 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:48 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:48 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:49 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:45:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:45:49 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:49 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:49 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:45:49 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:45:49 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:45:49 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:45:49 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:23 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:46:23 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:46:23 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:46:23 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:23 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard?success=fbbd0f23184e820e1df466abe6102955
+[13-Dec-2022 08:46:23 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:46:23 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[13-Dec-2022 08:46:23 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:23 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:46:23 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:46:23 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:46:24 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:46:24 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:46:24 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:46:24 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:46:24 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:46:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:04 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:56:04 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 08:56:04 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:56:04 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[13-Dec-2022 08:56:04 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 08:56:04 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[13-Dec-2022 08:56:04 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:56:04 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 08:56:04 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:56:04 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:56:08 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:56:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:56:08 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard?success=fbbd0f23184e820e1df466abe6102955
+[13-Dec-2022 08:56:08 Europe/Berlin] CLASSES::getCurrentUser -> NO existe el parametro user de session de usuario actual
+[13-Dec-2022 08:56:08 Europe/Berlin] USERMODEL::getId -> No hay ID para obtener usuario
+[13-Dec-2022 08:56:08 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> 
+[13-Dec-2022 08:56:08 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 08:56:08 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 08:56:08 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:56:08 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 08:56:08 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:56:08 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 08:56:08 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:56:08 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 08:58:34 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:58:34 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 08:58:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:58:34 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[13-Dec-2022 08:58:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 08:58:34 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[13-Dec-2022 08:58:34 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:58:34 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 08:58:35 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:58:35 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 08:58:41 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:58:41 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 08:58:41 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 08:58:41 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[13-Dec-2022 08:58:41 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 08:58:41 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[13-Dec-2022 08:58:41 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 08:58:41 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 08:58:42 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 08:58:42 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:00:55 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:55 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:00:55 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:00:55 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:00:55 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:00:55 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:00:56 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:56 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:00:57 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:57 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:00:57 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 09:00:57 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:00:57 Europe/Berlin] Error connection: SQLSTATE[HY000] [1049] Unknown database 'expense-apps'
+[13-Dec-2022 09:00:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilson', 'gilson')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 09:00:57 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:57 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:00:57 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:00:57 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:00:57 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:00:57 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:00:57 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:57 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:00:58 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:58 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:00:58 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 09:00:58 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:00:58 Europe/Berlin] Error connection: SQLSTATE[HY000] [1049] Unknown database 'expense-apps'
+[13-Dec-2022 09:00:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilson', 'gilson')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 09:00:58 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:58 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:00:58 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:00:58 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:00:58 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:00:58 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:00:58 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:58 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:00:59 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:59 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:00:59 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 09:00:59 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:00:59 Europe/Berlin] Error connection: SQLSTATE[HY000] [1049] Unknown database 'expense-apps'
+[13-Dec-2022 09:00:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilson', 'gilson')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 09:00:59 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:59 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:00:59 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:00:59 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:00:59 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:00:59 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:00:59 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:00:59 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:01:10 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:10 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:10 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 09:01:10 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:01:10 Europe/Berlin] Error connection: SQLSTATE[HY000] [1049] Unknown database 'expense-apps'
+[13-Dec-2022 09:01:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonAdmin', 'gilson')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 09:01:11 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:11 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:01:11 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:11 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:01:11 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:01:11 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:01:11 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:11 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:01:18 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:18 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:01:18 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:18 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:01:18 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:01:18 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:01:18 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:18 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:01:19 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 09:01:19 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:01:19 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:19 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[13-Dec-2022 09:01:19 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:19 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:01:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[13-Dec-2022 09:01:19 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:01:19 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:01:19 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:19 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:01:24 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:24 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:24 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 09:01:24 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] LoginModel::login -> success 
+[13-Dec-2022 09:01:24 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[13-Dec-2022 09:01:24 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:24 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 09:01:24 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 09:01:24 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 09:01:24 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 09:01:24 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:24 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:25 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:25 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:25 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:25 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 09:01:25 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 09:01:25 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 09:01:25 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:25 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 09:01:25 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:25 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:25 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:25 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:25 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:25 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:25 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:01:25 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:37 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:37 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:37 Europe/Berlin] Error connection: SQLSTATE[HY000] [1049] Unknown database 'expense-apps'
+[13-Dec-2022 09:01:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\usermodel.php(76): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\classes\sessioncontroller.php(84): UserModel->get(20)
+#2 C:\xampp\htdocs\expense-app\classes\sessioncontroller.php(46): SessionController->getUserSessionData()
+#3 C:\xampp\htdocs\expense-app\classes\sessioncontroller.php(30): SessionController->validateSession()
+#4 C:\xampp\htdocs\expense-app\classes\sessioncontroller.php(20): SessionController->init()
+#5 C:\xampp\htdocs\expense-app\controllers\dashboard.php(13): SessionController->__construct()
+#6 C:\xampp\htdocs\expense-app\libs\app.php(32): Dashboard->__construct()
+#7 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#8 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 09:01:44 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 09:01:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 09:01:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 09:01:44 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 09:01:44 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:44 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:45 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:45 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:01:45 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:01:45 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:01:45 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:45 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 09:01:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 09:01:45 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[13-Dec-2022 09:01:45 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:45 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[13-Dec-2022 09:01:45 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:45 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:45 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:45 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:45 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:01:45 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 09:18:19 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:18:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:18:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[13-Dec-2022 09:18:19 Europe/Berlin] CLASSES::getCurrentUser -> NO existe el parametro user de session de usuario actual
+[13-Dec-2022 09:18:19 Europe/Berlin] USERMODEL::getId -> No hay ID para obtener usuario
+[13-Dec-2022 09:18:19 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> 
+[13-Dec-2022 09:18:19 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[13-Dec-2022 09:18:19 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[13-Dec-2022 09:18:20 Europe/Berlin] Error connection: SQLSTATE[HY000] [2006] MySQL server has gone away
+[13-Dec-2022 09:18:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\expensesmodel.php(222): Model->prepare('SELECT * FROM e...')
+#1 C:\xampp\htdocs\expense-app\controllers\dashboard.php(42): ExpensesModel->getByUserIdAndLimit(NULL, 5)
+#2 C:\xampp\htdocs\expense-app\controllers\dashboard.php(23): Dashboard->getExpenses(5)
+#3 C:\xampp\htdocs\expense-app\libs\app.php(60): Dashboard->render()
+#4 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 09:18:20 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:18:20 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:18:20 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:18:20 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:18:20 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:18:20 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:18:20 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:18:21 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:26:23 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:26:23 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:26:23 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:26:23 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:26:23 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:26:23 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:26:23 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:26:23 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 09:37:37 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:37:37 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 09:37:37 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 09:37:37 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 09:37:37 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 09:37:37 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 09:37:38 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 09:37:38 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 04:42:19 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:42:19 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 04:42:19 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 04:42:19 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 04:42:19 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 04:42:19 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 04:42:20 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:42:20 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 04:42:30 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:42:30 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 04:42:30 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 04:42:30 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 04:42:34 Europe/Berlin] Error connection: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+[13-Dec-2022 04:42:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonCli', 'carlos')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 04:42:34 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:42:34 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 04:42:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 04:42:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 04:42:34 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 04:42:34 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 04:42:34 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:42:34 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 04:45:42 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:45:42 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 04:45:42 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 04:45:42 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 04:45:42 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:45:46 Europe/Berlin] Error connection: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+[13-Dec-2022 04:45:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonCli', 'carlos')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 04:45:46 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 04:45:46 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 04:45:46 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 04:45:50 Europe/Berlin] Error connection: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+[13-Dec-2022 04:45:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonCli', 'carlos')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 04:45:50 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:45:50 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 04:45:50 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 04:45:50 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 04:45:50 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 04:45:50 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 04:45:51 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 04:45:51 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 05:28:00 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:01 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 05:28:01 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:01 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 05:28:49 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:49 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 05:28:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 05:28:49 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 05:28:49 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 05:28:49 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 05:28:49 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:49 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 05:28:52 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 05:28:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 05:28:52 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 05:28:56 Europe/Berlin] Error connection: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+[13-Dec-2022 05:28:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonCli', 'carlos')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 05:28:56 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:56 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 05:28:56 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 05:28:56 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 05:28:56 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 05:28:56 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 05:28:56 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:56 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 05:28:59 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:59 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 05:28:59 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 05:28:59 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 05:28:59 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 05:28:59 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 05:28:59 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:28:59 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 05:29:00 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:29:00 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 05:29:00 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 05:29:00 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 05:29:02 Europe/Berlin] Error connection: SQLSTATE[HY000] [2006] MySQL server has gone away
+[13-Dec-2022 05:29:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonCli', 'carlos')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 05:29:02 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:29:02 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 05:29:02 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 05:29:02 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 05:29:02 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 05:29:02 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 05:29:02 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 05:29:02 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 12:16:40 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:16:40 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 12:16:41 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:16:41 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 12:16:43 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:16:43 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 12:16:43 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 12:16:43 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 12:16:43 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 12:16:43 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 12:16:43 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:16:43 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 12:16:49 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:16:49 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 12:16:49 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 12:16:49 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 12:17:01 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:17:26 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:17:26 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 12:17:28 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:17:28 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 12:17:29 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:17:29 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 12:21:07 Europe/Berlin] PHP Warning:  Uncaught PDOException: PDO::__construct(): Error while reading greeting packet. PID=11564 in C:\xampp\htdocs\expense-app\libs\database.php:27
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\libs\database.php(27): PDO->__construct('mysql:host=loca...', 'root', 'root', Array)
+#1 C:\xampp\htdocs\expense-app\libs\model.php(16): Database->connect()
+#2 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#3 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilson', 'gilson')
+#4 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#5 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#6 {main}
+
+Next PDOException: SQLSTATE[HY000] [2006] MySQL server has gone away in C:\xampp\htdocs\expense-app\libs\database.php:27
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\libs\database.php(27): PDO->__construct('mysql:host=loca...', 'root', 'root', Array)
+#1 C:\xampp\htdocs\expense-app\libs\model.php(16): Database->connect()
+#2 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#3 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilson', 'gilson')
+#4 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#5 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#6 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\database.php on line 27
+[13-Dec-2022 12:21:07 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\expense-app\libs\database.php on line 30
+[13-Dec-2022 12:21:07 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\expense-app\classes\session.php on line 13
+[13-Dec-2022 12:21:07 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\expense-app\classes\session.php on line 13
+[13-Dec-2022 12:21:07 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\expense-app\classes\session.php on line 13
+[13-Dec-2022 12:21:07 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\expense-app\classes\session.php on line 13
+[13-Dec-2022 12:21:07 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:21:07 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 12:23:52 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:23:52 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 12:23:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 12:23:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 12:23:52 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 12:23:52 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 12:23:52 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:23:52 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 12:27:25 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:27:25 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 12:27:25 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 12:27:25 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 12:27:29 Europe/Berlin] Error connection: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+[13-Dec-2022 12:27:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('root', 'root')
+#2 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#3 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#4 {main}
+  thrown in C:\xampp\htdocs\expense-app\libs\model.php on line 16
+[13-Dec-2022 12:27:29 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:27:29 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 12:27:29 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 12:27:29 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 12:27:29 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 12:27:29 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 12:27:29 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 12:27:29 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 13:43:18 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 13:43:18 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 13:43:18 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 13:43:18 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 107
+[13-Dec-2022 13:43:18 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 13:43:18 Europe/Berlin] PHP Warning:  Undefined array key 2 in C:\xampp\htdocs\classes\sessioncontroller.php on line 108
+[13-Dec-2022 13:43:18 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 13:43:18 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 17:15:48 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:15:48 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 17:15:48 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:15:48 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 17:15:50 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:15:50 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 17:15:50 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 17:15:50 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[13-Dec-2022 17:15:50 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 17:15:50 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 17:15:50 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:15:50 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 17:15:57 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:15:57 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 17:15:57 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 17:15:57 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 17:15:57 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 17:15:57 Europe/Berlin] LoginModel::login -> exception PDOException: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'expense-app.users' doesn't exist in engine in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\libs\model.php(16): PDO->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#2 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonCli', 'carlos')
+#3 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#4 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#5 {main}
+[13-Dec-2022 17:15:57 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[13-Dec-2022 17:15:57 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:15:57 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 17:15:57 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 17:15:57 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[13-Dec-2022 17:15:57 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 17:15:57 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 17:15:57 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:15:57 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 17:16:27 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:16:27 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 17:16:27 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 17:16:27 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 17:16:27 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 17:16:27 Europe/Berlin] LoginModel::login -> exception PDOException: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'expense-app.users' doesn't exist in engine in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\libs\model.php(16): PDO->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#2 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonAdmin', 'gilson')
+#3 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#4 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#5 {main}
+[13-Dec-2022 17:16:27 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[13-Dec-2022 17:16:27 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:16:27 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 17:16:27 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 17:16:27 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[13-Dec-2022 17:16:27 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 17:16:27 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 17:16:27 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:16:27 Europe/Berlin] Errores::construct -> Inicio de Errores
+[13-Dec-2022 17:16:34 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:16:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 17:16:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[13-Dec-2022 17:16:34 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 17:16:34 Europe/Berlin] Conexión a BD exitosa
+[13-Dec-2022 17:16:34 Europe/Berlin] LoginModel::login -> exception PDOException: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'expense-app.users' doesn't exist in engine in C:\xampp\htdocs\expense-app\libs\model.php:16
+Stack trace:
+#0 C:\xampp\htdocs\expense-app\libs\model.php(16): PDO->prepare('SELECT * FROM u...')
+#1 C:\xampp\htdocs\expense-app\models\loginmodel.php(15): Model->prepare('SELECT * FROM u...')
+#2 C:\xampp\htdocs\expense-app\controllers\login.php(33): LoginModel->login('gilsonCli', 'gilson')
+#3 C:\xampp\htdocs\expense-app\libs\app.php(51): Login->authenticate()
+#4 C:\xampp\htdocs\expense-app\index.php(22): App->__construct()
+#5 {main}
+[13-Dec-2022 17:16:34 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/?error=bcbe63ed8464684af6945ad8a89f76f8
+[13-Dec-2022 17:16:34 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:16:34 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[13-Dec-2022 17:16:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[13-Dec-2022 17:16:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> ?error=bcbe63ed8464684af6945ad8a89f76f8
+[13-Dec-2022 17:16:34 Europe/Berlin] Login::construct -> Inicio de login
+[13-Dec-2022 17:16:34 Europe/Berlin] Login::render -> Carga el index de login
+[13-Dec-2022 17:16:34 Europe/Berlin] Inicio de aplicacion web
+[13-Dec-2022 17:16:34 Europe/Berlin] Errores::construct -> Inicio de Errores
+[21-Dec-2022 04:50:05 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:06 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[21-Dec-2022 04:50:06 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:06 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[21-Dec-2022 04:50:06 Europe/Berlin] Login::construct -> Inicio de login
+[21-Dec-2022 04:50:06 Europe/Berlin] Login::render -> Carga el index de login
+[21-Dec-2022 04:50:11 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:11 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:11 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[21-Dec-2022 04:50:11 Europe/Berlin] Login::construct -> Inicio de login
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] LoginModel::login -> success 
+[21-Dec-2022 04:50:11 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[21-Dec-2022 04:50:11 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:11 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:11 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 04:50:11 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:11 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[21-Dec-2022 04:50:11 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:11 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:12 Europe/Berlin] Errores::construct -> Inicio de Errores
+[21-Dec-2022 04:50:12 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:12 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[21-Dec-2022 04:50:12 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:12 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:15 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:15 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:15 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:15 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:15 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[21-Dec-2022 04:50:15 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[21-Dec-2022 04:50:15 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:16 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:16 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:16 Europe/Berlin] Errores::construct -> Inicio de Errores
+[21-Dec-2022 04:50:44 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:44 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:44 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:44 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[21-Dec-2022 04:50:44 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[21-Dec-2022 04:50:44 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:44 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:44 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:44 Europe/Berlin] Errores::construct -> Inicio de Errores
+[21-Dec-2022 04:50:51 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:51 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[21-Dec-2022 04:50:51 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:51 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:51 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/user?success=edabc9e4581fee3f0056fff4685ee9a8
+[21-Dec-2022 04:50:51 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:51 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user?success=edabc9e4581fee3f0056fff4685ee9a8
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user?success=edabc9e4581fee3f0056fff4685ee9a8
+[21-Dec-2022 04:50:51 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:51 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:53 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:53 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 04:50:53 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:53 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[21-Dec-2022 04:50:53 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[21-Dec-2022 04:50:53 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:53 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:54 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[21-Dec-2022 04:50:54 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 04:50:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:13:34 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[21-Dec-2022 13:13:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[21-Dec-2022 13:13:34 Europe/Berlin] Login::construct -> Inicio de login
+[21-Dec-2022 13:13:34 Europe/Berlin] Login::render -> Carga el index de login
+[21-Dec-2022 13:13:34 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:13:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 13:13:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:34 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[21-Dec-2022 13:13:34 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:13:35 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:35 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[21-Dec-2022 13:13:35 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:35 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:52 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:13:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:13:52 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:52 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> logout
+[21-Dec-2022 13:13:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> logout
+[21-Dec-2022 13:13:52 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/
+[21-Dec-2022 13:13:52 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:13:52 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[21-Dec-2022 13:13:52 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:13:52 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[21-Dec-2022 13:13:52 Europe/Berlin] Login::construct -> Inicio de login
+[21-Dec-2022 13:13:52 Europe/Berlin] Login::render -> Carga el index de login
+[21-Dec-2022 13:13:54 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:13:54 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:13:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> login
+[21-Dec-2022 13:13:54 Europe/Berlin] Login::construct -> Inicio de login
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] LoginModel::login -> success 
+[21-Dec-2022 13:13:54 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/dashboard
+[21-Dec-2022 13:13:54 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:13:54 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 13:13:54 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> dashboard
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:54 Europe/Berlin] Dashboard::construct -> Inicio de Dashboard
+[21-Dec-2022 13:13:54 Europe/Berlin] Dashboard::render -> Carga el index de Dashboard
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:54 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:13:55 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:55 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[21-Dec-2022 13:13:55 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> expenses
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:13:55 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:25:34 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:25:34 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:25:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:25:34 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:25:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[21-Dec-2022 13:25:34 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> user
+[21-Dec-2022 13:25:34 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:25:34 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:25:37 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:25:37 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:25:37 Europe/Berlin] Conexión a BD exitosa
+[21-Dec-2022 13:25:37 Europe/Berlin] SESSIONCONTROLLER::getUserSessionData -> gilsonCli
+[21-Dec-2022 13:25:37 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> logout
+[21-Dec-2022 13:25:37 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> logout
+[21-Dec-2022 13:25:37 Europe/Berlin] CONTROLLER::redirect -> http://cyclone-blower.000webhostapp.com/expense-app/
+[21-Dec-2022 13:25:37 Europe/Berlin] Inicio de aplicacion web
+[21-Dec-2022 13:25:37 Europe/Berlin] APP::CONSTRUCT-> no hay controlador especificado
+[21-Dec-2022 13:25:37 Europe/Berlin] SESSIONCONTROLLER::validateSession
+[21-Dec-2022 13:25:37 Europe/Berlin] SESSIONCONTROLLER::getCurrentPage -> 
+[21-Dec-2022 13:25:37 Europe/Berlin] Login::construct -> Inicio de login
+[21-Dec-2022 13:25:37 Europe/Berlin] Login::render -> Carga el index de login
